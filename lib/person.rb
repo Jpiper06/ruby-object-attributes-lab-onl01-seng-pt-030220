@@ -15,6 +15,7 @@ Class Person
   def job
     @job 
   end 
+end 
   
 
   
