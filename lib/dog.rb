@@ -13,6 +13,6 @@ end
   end 
    
    def breed
-    @breed 
+     @breed 
   end 
 end 
